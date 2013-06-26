@@ -1,2 +1,1 @@
-Storm-Base-HTML
-===============
+This is the starting point HTML for Storm projects
